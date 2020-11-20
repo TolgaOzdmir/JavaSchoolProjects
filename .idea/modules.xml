@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CMPE211_Lab02/CMPE211_Lab02.iml" filepath="$PROJECT_DIR$/CMPE211_Lab02/CMPE211_Lab02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cmpe211_lab03/cmpe211_lab03.iml" filepath="$PROJECT_DIR$/cmpe211_lab03/cmpe211_lab03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cmpe211_lab04/cmpe211_lab04.iml" filepath="$PROJECT_DIR$/cmpe211_lab04/cmpe211_lab04.iml" />
+    </modules>
+  </component>
+</project>
